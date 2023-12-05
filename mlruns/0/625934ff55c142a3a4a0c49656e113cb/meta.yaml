@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/625934ff55c142a3a4a0c49656e113cb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 625934ff55c142a3a4a0c49656e113cb
+run_name: blushing-swan-601
+run_uuid: 625934ff55c142a3a4a0c49656e113cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701786505219
+status: 1
+tags: []
+user_id: 007926_Admin

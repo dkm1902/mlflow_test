@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/39249624b3ce4bafb3da1770284802f7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39249624b3ce4bafb3da1770284802f7
+run_name: zealous-hawk-570
+run_uuid: 39249624b3ce4bafb3da1770284802f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701773746047
+status: 1
+tags: []
+user_id: 007926_Admin
